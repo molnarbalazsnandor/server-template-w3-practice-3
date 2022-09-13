@@ -63,6 +63,19 @@ div > div > div > div > div > div > div > div > div > div {
 
 .pos-fixed {
   position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.asd1 {
+  position: absolute;
+  left: 0;
   bottom: 0;
-  right: 0;
+}
+
+.pos-rel {
+  position: relative;
+  top: 100px;
+  left: 100px;
 }
